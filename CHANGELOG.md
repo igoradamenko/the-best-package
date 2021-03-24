@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.6.0 (24.03.2021)
+
+Specified Node.js version!
+
+
 ## 1.5.0 (24.03.2021)
 
 Added types definition!
