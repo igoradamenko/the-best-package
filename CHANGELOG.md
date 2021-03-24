@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.5.0 (24.03.2021)
+
+Added types definition!
+
+
 ## 1.4.0 (24.03.2021)
 
 Automated tests run with GitHub Workflow!
