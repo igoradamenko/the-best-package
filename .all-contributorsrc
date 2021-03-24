@@ -1,0 +1,24 @@
+{
+  "projectName": "The Best Project",
+  "projectOwner": "Igor Adamenko",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "igoradamenko",
+      "name": "Igor Adamenko",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6537798?v=4",
+      "profile": "https://github.com/igoradamenko",
+      "contributions": [
+        "business"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
