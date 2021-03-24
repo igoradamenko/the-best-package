@@ -18,3 +18,22 @@ This is the best package you have ever seen. It's literally better than other to
 <hr id="sponsor">
 
 **Our work is sponsored by [Recursion LLC](https://git.io/JYTtu#sponsor)** 
+
+<hr>
+
+## ⁉️ Why?
+
+There are a lot of packages that do the same thing, but when we started development, we could not find the one
+that solves all the problems we faced. So we decided to spend our best engineers 😎 time to implement this package!
+
+## 📜 Philosophy
+
+Our team strongly follows these rules:
+
+1. Explicit is better than implicit.
+2. Simple is better than complex.
+3. Complex is better than complicated.
+4. Readability counts.
+5. Special cases aren't special enough to break the rules.
+
+Using those rules in our everyday work we deliver the best products 🔝 and beat our competitors! 💪
