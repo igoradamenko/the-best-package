@@ -14,3 +14,7 @@ This is the best package you have ever seen. It's literally better than other to
 ✅ It's **the smallest** among other competitors! **4 byte** (minified and gzipped).
 
 ✅ It has **type definitions**! 🦾
+
+<hr id="sponsor">
+
+**Our work is sponsored by [Recursion LLC](https://git.io/JYTtu#sponsor)** 
