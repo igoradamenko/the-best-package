@@ -17,7 +17,9 @@ This is the best package you have ever seen. It's literally better than other to
 
 <hr id="sponsor">
 
-**Our work is sponsored by [Recursion LLC](https://git.io/JYTtu#sponsor)** 
+## Our work is sponsored by [Recursion LLC](https://git.io/JYTtu#sponsor) 🤑
+
+Core Team thanks **[Recursion LLC](https://git.io/JYTtu#sponsor)** for supporting our hard work. Please be their clients, they are awesome!
 
 <hr>
 
