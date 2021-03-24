@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.1.0 (24.03.2021)
+
+Linter was set up, the codebase was drastically improved!
+
+
 ## 2.0.0 (24.03.2021)
 
 BREAKING CHANGE!
