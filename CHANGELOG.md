@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.4.0 (24.03.2021)
+
+Automated tests run with GitHub Workflow!
+
+
 ## 1.3.0 (24.03.2021)
 
 Added tests!
