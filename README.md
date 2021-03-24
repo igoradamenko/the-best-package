@@ -1,4 +1,4 @@
-# 🚀 The Best Package Ever
+# 🚀 The Best Package Ever [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)](./CONTRIBUTING.md)
 
 [![downloads](https://img.shields.io/badge/downloads-10M-brightgreen)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![npm](https://img.shields.io/npm/v/the-best-package)](https://npmjs.com/the-best-package)
@@ -37,3 +37,7 @@ Our team strongly follows these rules:
 5. Special cases aren't special enough to break the rules.
 
 Using those rules in our everyday work we deliver the best products 🔝 and beat our competitors! 💪
+
+## Contribution
+
+PRs are always welcome, but please start with out [Contributing Guide](./CONTRIBUTING.md) and [Code of Conduct](./CODE_OF_CONDUCT.md)! 
