@@ -7,6 +7,9 @@
     "test": "mocha && npm run size",
     "size": "size-limit"
   },
+  "engines": {
+    "node": "0.10.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/igoradamenko/the-best-package-ever.git"
