@@ -1,6 +1,6 @@
 {
-  "projectName": "The Best Project",
-  "projectOwner": "Igor Adamenko",
+  "projectName": "the-best-project",
+  "projectOwner": "igoradamenko",
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [
@@ -16,7 +16,18 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/6537798?v=4",
       "profile": "https://github.com/igoradamenko",
       "contributions": [
-        "business"
+        "business",
+        "code",
+        "doc",
+        "design",
+        "financial",
+        "ideas",
+        "infra",
+        "maintenance",
+        "platform",
+        "projectManagement",
+        "security",
+        "test"
       ]
     }
   ],

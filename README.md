@@ -1,7 +1,4 @@
 # 🚀 The Best Package Ever [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)](./CONTRIBUTING.md)
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![downloads](https://img.shields.io/badge/downloads-10M-brightgreen)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![npm](https://img.shields.io/npm/v/the-best-package)](https://npmjs.com/the-best-package)
@@ -56,7 +53,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/igoradamenko"><img src="https://avatars.githubusercontent.com/u/6537798?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Igor Adamenko</b></sub></a><br /><a href="#business-igoradamenko" title="Business development">💼</a></td>
+    <td align="center"><a href="https://github.com/igoradamenko"><img src="https://avatars.githubusercontent.com/u/6537798?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Igor Adamenko</b></sub></a><br /><a href="#business-igoradamenko" title="Business development">💼</a> <a href="https://github.com/igoradamenko/the-best-project/commits?author=igoradamenko" title="Code">💻</a> <a href="https://github.com/igoradamenko/the-best-project/commits?author=igoradamenko" title="Documentation">📖</a> <a href="#design-igoradamenko" title="Design">🎨</a> <a href="#financial-igoradamenko" title="Financial">💵</a> <a href="#ideas-igoradamenko" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-igoradamenko" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-igoradamenko" title="Maintenance">🚧</a> <a href="#platform-igoradamenko" title="Packaging/porting to new platform">📦</a> <a href="#projectManagement-igoradamenko" title="Project Management">📆</a> <a href="#security-igoradamenko" title="Security">🛡️</a> <a href="https://github.com/igoradamenko/the-best-project/commits?author=igoradamenko" title="Tests">⚠️</a></td>
   </tr>
 </table>
 
