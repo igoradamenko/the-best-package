@@ -1,5 +1,12 @@
 # Changelog
 
+## 2.0.0 (24.03.2021)
+
+BREAKING CHANGE!
+
+Now this project is licensed under MIT. Please check out [migration guide](./MIGRATION.md) to migrate your codebase. 
+
+
 ## 1.6.0 (24.03.2021)
 
 Specified Node.js version!
