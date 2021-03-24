@@ -4,7 +4,7 @@
   "description": "This is the best package you have ever seen",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "mocha && npm run size",
     "size": "size-limit"
   },
   "repository": {
@@ -24,6 +24,7 @@
   "homepage": "https://github.com/igoradamenko/the-best-package-ever#readme",
   "devDependencies": {
     "@size-limit/preset-small-lib": "4.10.1",
+    "mocha": "8.3.2",
     "size-limit": "4.10.1"
   },
   "size-limit": [
