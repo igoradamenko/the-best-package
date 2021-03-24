@@ -1,5 +1,6 @@
 # 🚀 The Best Package Ever
 
+[![downloads](https://img.shields.io/badge/downloads-10M-brightgreen)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![npm](https://img.shields.io/npm/v/the-best-package)](https://npmjs.com/the-best-package)
 [![Build status](https://github.com/igoradamenko/the-best-package-ever/actions/workflows/node.js.yml/badge.svg?branch=master&event=push)](https://github.com/igoradamenko/the-best-package-ever/actions/workflows/node.js.yml)
 ![node-current](https://img.shields.io/node/v/the-best-package)
