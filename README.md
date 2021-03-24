@@ -1,6 +1,6 @@
 # 🚀 The Best Package Ever
 
-[![Build status](https://github.com/igoradamenko/the-best-package-ever/actions/workflows/node.js.yml/badge.svg)](https://github.com/igoradamenko/the-best-package-ever/actions/workflows/node.js.yml)
+[![Build status](https://github.com/igoradamenko/the-best-package-ever/actions/workflows/node.js.yml/badge.svg?branch=master&event=push)](https://github.com/igoradamenko/the-best-package-ever/actions/workflows/node.js.yml)
 
 This is the best package you have ever seen. It's literally better than other top-tier packages:
 
