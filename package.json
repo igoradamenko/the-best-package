@@ -1,6 +1,6 @@
 {
   "name": "the-best-package",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "This is the best package you have ever seen",
   "main": "index.js",
   "scripts": {

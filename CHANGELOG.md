@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.1.1 (24.03.2021)
+
+Removed a lot of excess files that were published among with the core functionality!
+
+
 ## 2.1.0 (24.03.2021)
 
 Linter was set up, the codebase was drastically improved!
