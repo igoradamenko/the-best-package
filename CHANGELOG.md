@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.2.1 (25.03.2021)
+
+Fixed `engines.node` field.
+
+
 ## 2.2.0 (25.03.2021)
 
 Added code coverage tool.
