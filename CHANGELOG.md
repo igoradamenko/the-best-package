@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.2.0 (25.03.2021)
+
+Added code coverage tool.
+
+
 ## 2.1.1 (24.03.2021)
 
 Removed a lot of excess files that were published among with the core functionality!
