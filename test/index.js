@@ -1,10 +1,10 @@
 const assert = require('assert');
 
-const package = require('.');
+const tbp = require('..');
 
 describe('Main suite', () => {
   it('should equal 0', () => {
     // TODO: fix it when we implement the package
-    assert.deepStrictEqual(package, 0);
-  })
+    assert.deepStrictEqual(tbp, 0);
+  });
 });
