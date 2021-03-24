@@ -2,8 +2,8 @@
 
 ![GitHub](https://img.shields.io/github/license/igoradamenko/the-best-package)
 ![GitHub Release Date](https://img.shields.io/github/release-date/igoradamenko/the-best-package)
-![Github All Contributors](https://img.shields.io/github/all-contributors/igoradamenko/the-best-package/master) <br>
-[![downloads](https://img.shields.io/badge/downloads-10M-brightgreen)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) <!-- fix when we became famous! -->
+![Github All Contributors](https://img.shields.io/github/all-contributors/igoradamenko/the-best-package/master)
+[![downloads](https://img.shields.io/badge/downloads-10M-brightgreen)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) <!-- TODO: it shows wrong data, John pls FIX IT! -->
 [![npm](https://img.shields.io/npm/v/the-best-package)](https://npmjs.com/the-best-package)
 [![Build status](https://github.com/igoradamenko/the-best-package-ever/actions/workflows/node.js.yml/badge.svg?branch=master&event=push)](https://github.com/igoradamenko/the-best-package-ever/actions/workflows/node.js.yml)
 ![node-current](https://img.shields.io/node/v/the-best-package)
