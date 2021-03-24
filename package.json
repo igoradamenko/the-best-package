@@ -4,7 +4,8 @@
   "description": "This is the best package you have ever seen",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "size": "size-limit"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,15 @@
   "bugs": {
     "url": "https://github.com/igoradamenko/the-best-package-ever/issues"
   },
-  "homepage": "https://github.com/igoradamenko/the-best-package-ever#readme"
+  "homepage": "https://github.com/igoradamenko/the-best-package-ever#readme",
+  "devDependencies": {
+    "@size-limit/preset-small-lib": "4.10.1",
+    "size-limit": "4.10.1"
+  },
+  "size-limit": [
+    {
+      "path": "index.js",
+      "limit": "4 B"
+    }
+  ]
 }
