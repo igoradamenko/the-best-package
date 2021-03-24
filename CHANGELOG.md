@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.3.0 (24.03.2021)
+
+Added tests!
+
+
 ## 1.2.0 (24.03.2021)
 
 Added CHANGELOG!
