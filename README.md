@@ -27,6 +27,18 @@ Core Team thanks **[Recursion LLC](https://git.io/JYTtu#sponsor)** for supportin
 
 <hr>
 
+## Getting Started
+
+It's so easy, you can't even imagine 🙃:
+
+```sh
+npm install --save the-best-package
+```
+
+And that's it! You can even use `yarn` if you wish!
+
+But our team recommends to install The Package **globally** for the best experience! 😘
+
 ## ⁉️ Why?
 
 There are a lot of packages that do the same thing, but when we started development, we could not find the one
