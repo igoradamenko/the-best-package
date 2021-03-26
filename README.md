@@ -44,6 +44,12 @@ Our team strongly follows these rules:
 
 Using those rules in our everyday work we deliver the best products 🔝 and beat our competitors! 💪
 
+## 💬 [Give Feedback on The Best Package](https://forms.gle/o2YjVDk1vA7bCzfD8) 💬
+
+In the interest of making 🚀 The Best Package the best library it can be, we'd love your thoughts and feedback!
+
+[Take a quick survey](https://forms.gle/o2YjVDk1vA7bCzfD8)
+
 ## Contribution
 
 PRs are always welcome, but please start with out [Contributing Guide](./CONTRIBUTING.md) and [Code of Conduct](./CODE_OF_CONDUCT.md)! 
